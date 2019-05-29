@@ -10,7 +10,6 @@ Voice typing is a simple friendly application, where the text appears after you 
 - Voice to text messages
 - Speak to easy write
 - Speech note
-- Voice note file
 - Voice translator (* to improve)
 
 3.Diagrama de clases
